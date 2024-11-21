@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yi.Framework.Ddd.Application.Contracts</name>
+    </assembly>
+    <members>
+        <member name="P:Yi.Framework.Ddd.Application.Contracts.PagedAllResultRequestDto.StartTime">
+            <summary>
+            查询开始时间条件
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Ddd.Application.Contracts.PagedAllResultRequestDto.EndTime">
+            <summary>
+            查询结束时间条件
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Ddd.Application.Contracts.PagedAllResultRequestDto.OrderByColumn">
+            <summary>
+            排序列名，字段名对应前端
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Ddd.Application.Contracts.PagedAllResultRequestDto.IsAsc">
+            <summary>
+            是否顺序，字段名对应前端
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Ddd.Application.Contracts.PagedAllResultRequestDto.CanAsc">
+            <summary>
+            是否顺序
+            </summary>
+        </member>
+    </members>
+</doc>

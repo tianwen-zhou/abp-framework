@@ -1,0 +1,14 @@
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/bin/Debug/net8.0/Yi.Framework.Core.deps.json
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/bin/Debug/net8.0/Yi.Framework.Core.dll
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/bin/Debug/net8.0/Yi.Framework.Core.pdb
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/bin/Debug/net8.0/Yi.Framework.Core.xml
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.csproj.AssemblyReference.cache
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.AssemblyInfoInputs.cache
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.AssemblyInfo.cs
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.csproj.CoreCompileInputs.cache
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.dll
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/refint/Yi.Framework.Core.dll
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.xml
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/Yi.Framework.Core.pdb
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/Debug/net8.0/ref/Yi.Framework.Core.dll

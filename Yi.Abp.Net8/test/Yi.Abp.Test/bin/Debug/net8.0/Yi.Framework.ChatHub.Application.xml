@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yi.Framework.ChatHub.Application</name>
+    </assembly>
+    <members>
+        <member name="M:Yi.Framework.ChatHub.Application.Services.AiChatService.ChatAsync(System.Collections.Generic.List{Yi.Framework.ChatHub.Domain.Shared.Dtos.AiChatContextDto})">
+            <summary>
+            ai聊天
+            </summary>
+            <param name="chatContext"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.ChatHub.Application.Services.ChatMessageService.SendPersonalMessageAsync(Yi.Framework.ChatHub.Application.Contracts.Dtos.PersonalMessageInputDto)">
+            <summary>
+            发送个人消息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.ChatHub.Application.Services.ChatMessageService.SendGroupMessageAsync(Yi.Framework.ChatHub.Application.Contracts.Dtos.GroupMessageInputDto)">
+            <summary>
+            发送群组消息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.ChatHub.Application.Services.ChatMessageService.GetListAsync(Yi.Framework.ChatHub.Application.Contracts.Dtos.ChatMessageGetListInput)">
+            <summary>
+            查询消息
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.ChatHub.Application.Services.ChatMessageService.GetAccountMessageListAsync">
+            <summary>
+            获取用户自己的消息
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

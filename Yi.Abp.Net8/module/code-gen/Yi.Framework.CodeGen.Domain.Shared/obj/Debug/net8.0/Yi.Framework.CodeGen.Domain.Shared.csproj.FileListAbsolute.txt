@@ -1,0 +1,14 @@
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/bin/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.deps.json
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/bin/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.dll
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/bin/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.pdb
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/bin/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.xml
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.csproj.AssemblyReference.cache
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.AssemblyInfoInputs.cache
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.AssemblyInfo.cs
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.dll
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/refint/Yi.Framework.CodeGen.Domain.Shared.dll
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.xml
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/Yi.Framework.CodeGen.Domain.Shared.pdb
+/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/Debug/net8.0/ref/Yi.Framework.CodeGen.Domain.Shared.dll
