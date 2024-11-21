@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yi.Framework.AuditLogging.SqlSugarCore</name>
+    </assembly>
+    <members>
+        <member name="M:Yi.Framework.AuditLogging.SqlSugarCore.Repositories.SqlSugarCoreAuditLogRepository.InsertAsync(Yi.Framework.AuditLogging.Domain.Entities.AuditLogAggregateRoot)">
+            <summary>
+            重写插入，支持导航属性
+            </summary>
+            <param name="insertObj"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yi.Abp.Tool</name>
+    </assembly>
+    <members>
+        <member name="M:Yi.Abp.Tool.Commands.AddModuleCommand.CheckFirstSlnPath(System.String)">
+            <summary>
+            获取一个sln解决方案，多个将报错
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Abp.Tool.Commands.AddModuleCommand.StartCmd(System.String[])">
+            <summary>
+            执行cmd命令
+            </summary>
+            <param name="cmdCommands"></param>
+        </member>
+        <member name="M:Yi.Abp.Tool.Commands.AddModuleCommand.CheckPathExist(System.String[])">
+            <summary>
+            检查路径
+            </summary>
+            <param name="paths"></param>
+            <exception cref="T:Volo.Abp.UserFriendlyException"></exception>
+        </member>
+        <member name="M:Yi.Abp.Tool.Commands.CloneCommand.StartCmd(System.String[])">
+            <summary>
+            执行cmd命令
+            </summary>
+            <param name="cmdCommands"></param>
+        </member>
+    </members>
+</doc>

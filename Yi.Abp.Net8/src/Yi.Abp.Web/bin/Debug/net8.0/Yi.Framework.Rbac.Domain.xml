@@ -1,0 +1,972 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yi.Framework.Rbac.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:Yi.Framework.Rbac.Domain.Authorization.AuthAggregateRoot">
+             <summary>
+             第三方授权表
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Authorization.DataPermissionExtensions.DisablePermissionHandler(Volo.Abp.Data.IDataFilter)">
+            <summary>
+            关闭数据权限
+            </summary>
+            <param name="dataFilter"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Authorization.IDataPermission">
+            <summary>
+            数据权限过滤接口
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot">
+            <summary>
+            配置表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot.ConfigName">
+             <summary>
+             配置名称 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot.ConfigKey">
+             <summary>
+             配置键 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot.ConfigValue">
+             <summary>
+             配置值 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot.ConfigType">
+             <summary>
+             配置类别 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot.OrderNum">
+             <summary>
+             排序字段 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ConfigAggregateRoot.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot">
+             <summary>
+             部门表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.CreatorId">
+            <summary>
+            创建者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.LastModifierId">
+            <summary>
+            最后修改者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.LastModificationTime">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.DeptName">
+             <summary>
+             部门名称 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.DeptCode">
+             <summary>
+             部门编码 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.Leader">
+             <summary>
+             负责人 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.ParentId">
+             <summary>
+             父级id 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DeptAggregateRoot.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.ListClass">
+             <summary>
+             tag类型 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.CssClass">
+             <summary>
+             tagClass 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.DictType">
+             <summary>
+             字典类型 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.DictLabel">
+             <summary>
+             字典标签 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.DictValue">
+             <summary>
+             字典值 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryEntity.IsDefault">
+             <summary>
+             是否为该类型的默认值 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.DictName">
+             <summary>
+             字典名称 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.DictType">
+             <summary>
+             字典类型 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.DictionaryTypeAggregateRoot.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.FileAggregateRoot.FileSize">
+             <summary>
+             文件大小 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.FileAggregateRoot.FileName">
+             <summary>
+             文件名 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.FileAggregateRoot.FilePath">
+             <summary>
+             文件路径 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.LoginLogAggregateRoot.LoginUser">
+             <summary>
+             登录用户 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.LoginLogAggregateRoot.LoginLocation">
+             <summary>
+             登录地点 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.LoginLogAggregateRoot.LoginIp">
+             <summary>
+             登录Ip 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.LoginLogAggregateRoot.Browser">
+             <summary>
+             浏览器 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.LoginLogAggregateRoot.Os">
+             <summary>
+             操作系统 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.LoginLogAggregateRoot.LogMsg">
+             <summary>
+             登录信息 
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot">
+             <summary>
+             菜单表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.CreatorId">
+            <summary>
+            创建者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.LastModifierId">
+            <summary>
+            最后修改者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.LastModificationTime">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.MenuName">
+            <summary>
+            菜单名
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.RouterName">
+            <summary>
+            路由名称
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.MenuType">
+             <summary>
+              
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.PermissionCode">
+             <summary>
+              
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.ParentId">
+             <summary>
+              
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.MenuIcon">
+             <summary>
+             菜单图标 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.Router">
+             <summary>
+             菜单组件路由 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.IsLink">
+             <summary>
+             是否为外部链接 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.IsCache">
+             <summary>
+             是否缓存 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.IsShow">
+             <summary>
+             是否显示 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.Component">
+             <summary>
+             组件路径 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.MenuSource">
+            <summary>
+            菜单来源
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot.Query">
+             <summary>
+             路由参数 
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.MenuEntityExtensions">
+            <summary>
+            实体扩展
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Entities.MenuEntityExtensions.Vue3RuoYiRouterBuild(System.Collections.Generic.List{Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot})">
+            <summary>
+            构建vue3路由
+            </summary>
+            <param name="menus"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Entities.MenuEntityExtensions.Vue3PureRouterBuild(System.Collections.Generic.List{Yi.Framework.Rbac.Domain.Entities.MenuAggregateRoot})">
+            <summary>
+            构建vue3  pure路由
+            </summary>
+            <param name="menus"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.NoticeAggregateRoot.Title">
+            <summary>
+            公告标题
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.NoticeAggregateRoot.Type">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.NoticeAggregateRoot.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot">
+             <summary>
+             岗位表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.CreatorId">
+            <summary>
+            创建者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.LastModifierId">
+            <summary>
+            最后修改者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.LastModificationTime">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.PostCode">
+             <summary>
+             岗位编码 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.PostName">
+             <summary>
+             岗位名称 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.PostAggregateRoot.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot">
+            <summary>
+            角色表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.CreatorId">
+            <summary>
+            创建者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.LastModifierId">
+            <summary>
+            最后修改者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.LastModificationTime">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.RoleName">
+            <summary>
+            角色名
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.RoleCode">
+             <summary>
+             角色编码 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.Remark">
+             <summary>
+             描述 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.DataScope">
+             <summary>
+             角色数据范围 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleAggregateRoot.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.RoleDeptEntity">
+             <summary>
+             角色部门关系表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleDeptEntity.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleDeptEntity.RoleId">
+             <summary>
+             角色id 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleDeptEntity.DeptId">
+             <summary>
+             部门id 
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.RoleMenuEntity">
+             <summary>
+             角色菜单关系表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleMenuEntity.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleMenuEntity.RoleId">
+             <summary>
+              
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.RoleMenuEntity.MenuId">
+             <summary>
+              
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot">
+            <summary>
+            用户表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.IsDeleted">
+            <summary>
+            逻辑删除
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.EncryPassword">
+            <summary>
+            加密密码
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Icon">
+            <summary>
+            头像
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Nick">
+            <summary>
+            昵称
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Ip">
+            <summary>
+            Ip
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Address">
+            <summary>
+            地址
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Phone">
+            <summary>
+            电话
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Introduction">
+            <summary>
+            简介
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Sex">
+            <summary>
+            性别
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.DeptId">
+            <summary>
+            部门id
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.CreatorId">
+            <summary>
+            创建者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.LastModifierId">
+            <summary>
+            最后修改者
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.LastModificationTime">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.OrderNum">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.State">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Roles">
+            <summary>
+            角色
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Posts">
+            <summary>
+            岗位
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.Dept">
+            <summary>
+            部门
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.BuildPassword(System.String)">
+            <summary>
+            构建密码，MD5盐值加密
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot.JudgePassword(System.String)">
+            <summary>
+            判断密码和加密后的密码是否相同
+            </summary>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.UserPostEntity">
+             <summary>
+             用户岗位表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserPostEntity.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserPostEntity.UserId">
+            <summary>
+            用户id
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserPostEntity.PostId">
+             <summary>
+             岗位id 
+            </summary>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Entities.UserRoleEntity">
+             <summary>
+             用户角色关系表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserRoleEntity.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserRoleEntity.RoleId">
+            <summary>
+            角色id
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.UserRoleEntity.UserId">
+            <summary>
+            用户id
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ValueObjects.EncryPasswordValueObject.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Entities.ValueObjects.EncryPasswordValueObject.Salt">
+            <summary>
+            加密盐值
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Extensions.CurrestUserExtensions.GetPermissions(Volo.Abp.Users.ICurrentUser)">
+            <summary>
+            获取用户权限codes
+            </summary>
+            <param name="currentUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Extensions.CurrestUserExtensions.GetDeptId(Volo.Abp.Users.ICurrentUser)">
+            <summary>
+            获取用户权限岗位id
+            </summary>
+            <param name="currentUser"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Managers.AccountManager">
+            <summary>
+            用户领域服务
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.GetTokenByUserIdAsync(System.Guid,System.Action{Yi.Framework.Rbac.Domain.Shared.Dtos.UserRoleMenuDto})">
+            <summary>
+            根据用户id获取token
+            </summary>
+            <param name="userId"></param>
+            <param name="getUserInfo"></param>
+            <returns></returns>
+            <exception cref="T:Volo.Abp.UserFriendlyException"></exception>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.CreateToken(System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            创建令牌
+            </summary>
+            <param name="kvs"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.LoginValidationAsync(System.String,System.String,System.Action{Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot})">
+            <summary>
+            登录校验
+            </summary>
+            <param name="userName"></param>
+            <param name="password"></param>
+            <param name="userAction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.ExistAsync(System.String,System.Action{Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot})">
+            <summary>
+            判断账户合法存在
+            </summary>
+            <param name="userName"></param>
+            <param name="userAction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.UserInfoToClaim(Yi.Framework.Rbac.Domain.Shared.Dtos.UserRoleMenuDto)">
+            <summary>
+            令牌转换
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.UpdatePasswordAsync(System.Guid,System.String,System.String)">
+            <summary>
+            更新密码
+            </summary>
+            <param name="userId"></param>
+            <param name="newPassword"></param>
+            <param name="oldPassword"></param>
+            <returns></returns>
+            <exception cref="T:Volo.Abp.UserFriendlyException"></exception>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.RestPasswordAsync(System.Guid,System.String)">
+            <summary>
+            重置密码,也可以是找回密码
+            </summary>
+            <param name="userId"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AccountManager.RegisterAsync(System.String,System.String,System.Int64,System.String)">
+            <summary>
+            注册用户，创建用户之后设置默认角色
+            </summary>
+            <param name="userName"></param>
+            <param name="password"></param>
+            <param name="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.AliyunManger.SendSmsAsync(System.String,System.String)">
+            <summary>
+            发送短信
+            </summary>
+            <param name="phoneNumbers"></param>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.RoleManager.GiveRoleSetMenuAsync(System.Collections.Generic.List{System.Guid},System.Collections.Generic.List{System.Guid})">
+            <summary>
+            给角色设置菜单
+            </summary>
+            <param name="roleIds"></param>
+            <param name="menuIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.UserManager.GiveUserSetRoleAsync(System.Collections.Generic.List{System.Guid},System.Collections.Generic.List{System.Guid})">
+            <summary>
+            给用户设置角色
+            </summary>
+            <param name="userIds"></param>
+            <param name="roleIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.UserManager.GiveUserSetPostAsync(System.Collections.Generic.List{System.Guid},System.Collections.Generic.List{System.Guid})">
+            <summary>
+            给用户设置岗位
+            </summary>
+            <param name="userIds"></param>
+            <param name="postIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.UserManager.CreateAsync(Yi.Framework.Rbac.Domain.Entities.UserAggregateRoot)">
+            <summary>
+            创建用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.UserManager.GetInfoAsync(System.Guid)">
+            <summary>
+            查询用户信息，取消缓存
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Managers.UserManager.GetInfoListAsync(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            批量查询用户信息
+            </summary>
+            <param name="userIds"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity">
+             <summary>
+             操作日志表
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.Title">
+             <summary>
+             操作模块 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.OperType">
+             <summary>
+             操作类型 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.RequestMethod">
+             <summary>
+             请求方法 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.OperUser">
+             <summary>
+             操作人员 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.OperIp">
+             <summary>
+             操作Ip 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.OperLocation">
+             <summary>
+             操作地点 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.Method">
+             <summary>
+             操作方法 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.RequestParam">
+             <summary>
+             请求参数 
+            </summary>
+        </member>
+        <member name="P:Yi.Framework.Rbac.Domain.Operlog.OperationLogEntity.RequestResult">
+             <summary>
+             请求结果 
+            </summary>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Repositories.IUserRepository.GetUserAllInfoAsync(System.Guid)">
+            <summary>
+            获取用户的所有信息
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Yi.Framework.Rbac.Domain.Repositories.IUserRepository.GetListUserAllInfoAsync(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            批量获取用户的所有信息
+            </summary>
+            <param name="userIds"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

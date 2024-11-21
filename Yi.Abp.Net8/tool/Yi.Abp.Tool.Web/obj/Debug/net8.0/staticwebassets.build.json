@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "z4kDFFCvK5dQqNofTxjAI474A/rMa64CTcKQdDVfk2U=",
+  "Source": "Yi.Abp.Tool.Web",
+  "BasePath": "_content/Yi.Abp.Tool.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

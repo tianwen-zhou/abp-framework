@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yi.Abp.Tool.Application.Contracts</name>
+    </assembly>
+    <members>
+        <member name="P:Yi.Abp.Tool.Application.Contracts.Dtos.TemplateGenCreateInputDto.Name">
+            <summary>
+            模块名称
+            </summary>
+        </member>
+        <member name="P:Yi.Abp.Tool.Application.Contracts.Dtos.TemplateGenCreateInputDto.ModuleSoure">
+            <summary>
+            模块类型
+            </summary>
+        </member>
+        <member name="P:Yi.Abp.Tool.Application.Contracts.Dtos.TemplateGenCreateInputDto.Dbms">
+            <summary>
+            数据库提供者
+            </summary>
+        </member>
+        <member name="P:Yi.Abp.Tool.Application.Contracts.Dtos.TemplateGenCreateInputDto.ReplaceStrData">
+            <summary>
+            需要替换的字符串内容
+            </summary>
+        </member>
+    </members>
+</doc>
