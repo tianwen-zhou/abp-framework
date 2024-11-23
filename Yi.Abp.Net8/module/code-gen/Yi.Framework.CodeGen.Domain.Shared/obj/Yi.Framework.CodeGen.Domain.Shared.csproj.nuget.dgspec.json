@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj": {}
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj": {}
   },
   "projects": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj",
         "projectName": "Yi.Framework.CodeGen.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"

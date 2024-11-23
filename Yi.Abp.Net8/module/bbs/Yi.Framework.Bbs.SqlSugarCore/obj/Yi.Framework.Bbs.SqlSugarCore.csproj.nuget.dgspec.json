@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj": {}
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj": {}
   },
   "projects": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
         "projectName": "Yi.Framework.Caching.FreeRedis",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
         "projectName": "Yi.Framework.Core",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
         "projectName": "Yi.Framework.Mapster",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -177,8 +177,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
         "projectName": "Yi.Framework.SqlSugarCore.Abstractions",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -254,8 +254,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
               }
             }
           }
@@ -308,14 +308,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj",
         "projectName": "Yi.Framework.SqlSugarCore",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -331,8 +331,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
               }
             }
           }
@@ -385,14 +385,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
         "projectName": "Yi.Framework.Bbs.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -408,8 +408,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
               }
             }
           }
@@ -452,14 +452,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj",
         "projectName": "Yi.Framework.Bbs.Domain",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -475,11 +475,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj"
               }
             }
           }
@@ -522,14 +522,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
         "projectName": "Yi.Framework.Bbs.SqlSugarCore",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -545,11 +545,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj"
               }
             }
           }
@@ -592,14 +592,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
         "projectName": "Yi.Framework.Rbac.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -615,11 +615,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
               }
             }
           }
@@ -668,14 +668,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj",
         "projectName": "Yi.Framework.Rbac.Domain",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -691,14 +691,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
               }
             }
           }
@@ -771,14 +771,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj",
         "projectName": "Yi.Framework.Rbac.SqlSugarCore",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -794,14 +794,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain/Yi.Framework.Rbac.Domain.csproj"
               }
             }
           }

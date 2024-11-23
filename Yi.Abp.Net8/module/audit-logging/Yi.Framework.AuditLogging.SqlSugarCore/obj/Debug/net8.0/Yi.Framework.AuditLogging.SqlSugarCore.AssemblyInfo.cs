@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yi.Framework.AuditLogging.SqlSugarCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cc0ef916f09757ddd7727b42c4b01eeff9a38ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e02b3df8db2f3938ee02be451f61d6b3cce9dc8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yi.Framework.AuditLogging.SqlSugarCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yi.Framework.AuditLogging.SqlSugarCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

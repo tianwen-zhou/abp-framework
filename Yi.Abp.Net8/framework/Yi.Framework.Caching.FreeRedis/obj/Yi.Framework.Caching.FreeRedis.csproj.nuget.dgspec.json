@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {}
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {}
   },
   "projects": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
         "projectName": "Yi.Framework.Caching.FreeRedis",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/Yi.Framework.Caching.FreeRedis.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Caching.FreeRedis/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1JM1MyhXcvY=",
+  "dgSpecHash": "BL98O1K8E9c=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application/Yi.Framework.CodeGen.Application.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application/Yi.Framework.CodeGen.Application.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/asynckeyedlock/6.3.4/asynckeyedlock.6.3.4.nupkg.sha512",
     "/Users/mark/.nuget/packages/jetbrains.annotations/2023.3.0/jetbrains.annotations.2023.3.0.nupkg.sha512",

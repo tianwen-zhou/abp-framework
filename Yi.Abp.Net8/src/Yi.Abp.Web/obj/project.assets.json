@@ -13161,11 +13161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/Yi.Abp.Web.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/Yi.Abp.Web.csproj",
       "projectName": "Yi.Abp.Web",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/Yi.Abp.Web.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/Yi.Abp.Web.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -13181,17 +13181,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore.Authentication.OAuth/Yi.Framework.AspNetCore.Authentication.OAuth.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore.Authentication.OAuth/Yi.Framework.AspNetCore.Authentication.OAuth.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore.Authentication.OAuth/Yi.Framework.AspNetCore.Authentication.OAuth.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore.Authentication.OAuth/Yi.Framework.AspNetCore.Authentication.OAuth.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore/Yi.Framework.AspNetCore.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore/Yi.Framework.AspNetCore.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore/Yi.Framework.AspNetCore.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.AspNetCore/Yi.Framework.AspNetCore.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application/Yi.Abp.Application.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application/Yi.Abp.Application.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application/Yi.Abp.Application.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application/Yi.Abp.Application.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.SqlSugarCore/Yi.Abp.SqlSugarCore.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.SqlSugarCore/Yi.Abp.SqlSugarCore.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.SqlSugarCore/Yi.Abp.SqlSugarCore.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.SqlSugarCore/Yi.Abp.SqlSugarCore.csproj"
             }
           }
         }

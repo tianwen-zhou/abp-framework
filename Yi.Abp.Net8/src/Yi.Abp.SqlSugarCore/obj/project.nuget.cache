@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQeywOlkXqc=",
+  "dgSpecHash": "5G7dJ+mA83M=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.SqlSugarCore/Yi.Abp.SqlSugarCore.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.SqlSugarCore/Yi.Abp.SqlSugarCore.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/alibabacloud.endpointutil/0.1.1/alibabacloud.endpointutil.0.1.1.nupkg.sha512",
     "/Users/mark/.nuget/packages/alibabacloud.gatewayspi/0.0.2/alibabacloud.gatewayspi.0.0.2.nupkg.sha512",

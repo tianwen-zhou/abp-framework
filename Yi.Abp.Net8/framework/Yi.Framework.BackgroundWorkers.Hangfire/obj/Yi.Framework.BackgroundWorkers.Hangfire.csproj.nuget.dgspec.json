@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj": {}
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj": {}
   },
   "projects": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj",
         "projectName": "Yi.Framework.BackgroundWorkers.Hangfire",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/Yi.Framework.BackgroundWorkers.Hangfire.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.BackgroundWorkers.Hangfire/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"

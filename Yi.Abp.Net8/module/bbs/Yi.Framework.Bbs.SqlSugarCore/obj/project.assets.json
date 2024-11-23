@@ -8614,11 +8614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
       "projectName": "Yi.Framework.Bbs.SqlSugarCore",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/Yi.Framework.Bbs.SqlSugarCore.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.SqlSugarCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -8634,11 +8634,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain/Yi.Framework.Bbs.Domain.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.SqlSugarCore/Yi.Framework.Rbac.SqlSugarCore.csproj"
             }
           }
         }

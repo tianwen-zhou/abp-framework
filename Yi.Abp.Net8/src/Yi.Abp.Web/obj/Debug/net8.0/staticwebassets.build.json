@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0/G7wd/wL5Vs6an7fY9+t75/zsrUzsEl0fH9+o3U60o=",
+  "Hash": "k3ONCXoL/ePbpV45o6owCLgvbg2NeJBvJQpwhbQDj1M=",
   "Source": "Yi.Abp.Web",
   "BasePath": "_content/Yi.Abp.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Yi.Abp.Web/wwwroot",
       "Source": "Yi.Abp.Web",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/0.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/0.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/0#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot/icon/0.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/1.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/1.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot/icon/1.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/10.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/10.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/10#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot/icon/10.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/11.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/11.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/11#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot/icon/11.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/12.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/12.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/12#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot/icon/12.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/13.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/13.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/13#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot/icon/13.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/14.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/14.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/14#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot/icon/14.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/2.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/2.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot/icon/2.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/3.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/3.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot/icon/3.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/4.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/4.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot/icon/4.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/5.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/5.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/5#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot/icon/5.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/6.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/6.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/6#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot/icon/6.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/8.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/8.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/8#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot/icon/8.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/9.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/9.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "icon/9#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot/icon/9.png"
     },
     {
-      "Identity": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/logo.png",
+      "Identity": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/logo.png",
       "SourceId": "Yi.Abp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
+      "ContentRoot": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/",
       "BasePath": "_content/Yi.Abp.Web",
       "RelativePath": "logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -335,7 +335,7 @@
   "Endpoints": [
     {
       "Route": "icon/0.951lzcn3dv.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/0.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -356,7 +356,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -380,7 +380,7 @@
     },
     {
       "Route": "icon/0.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/0.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -401,7 +401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -417,7 +417,7 @@
     },
     {
       "Route": "icon/1.efzs121h34.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/1.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -438,7 +438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -462,7 +462,7 @@
     },
     {
       "Route": "icon/1.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/1.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -499,7 +499,7 @@
     },
     {
       "Route": "icon/10.h2taqcg6ni.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/10.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/10.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -520,7 +520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -544,7 +544,7 @@
     },
     {
       "Route": "icon/10.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/10.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/10.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -565,7 +565,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -581,7 +581,7 @@
     },
     {
       "Route": "icon/11.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/11.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/11.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -602,7 +602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -618,7 +618,7 @@
     },
     {
       "Route": "icon/11.z2sf5jrhz9.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/11.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/11.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -639,7 +639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -663,7 +663,7 @@
     },
     {
       "Route": "icon/12.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/12.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/12.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -684,7 +684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -700,7 +700,7 @@
     },
     {
       "Route": "icon/12.uut033zbmr.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/12.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/12.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -721,7 +721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -745,7 +745,7 @@
     },
     {
       "Route": "icon/13.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/13.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/13.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -766,7 +766,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -782,7 +782,7 @@
     },
     {
       "Route": "icon/13.vo3glfpkra.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/13.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/13.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -803,7 +803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -827,7 +827,7 @@
     },
     {
       "Route": "icon/14.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/14.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/14.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -848,7 +848,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -864,7 +864,7 @@
     },
     {
       "Route": "icon/14.wfdgihvheo.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/14.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/14.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -885,7 +885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -909,7 +909,7 @@
     },
     {
       "Route": "icon/2.bmylzc54y2.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/2.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -930,7 +930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -954,7 +954,7 @@
     },
     {
       "Route": "icon/2.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/2.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -975,7 +975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -991,7 +991,7 @@
     },
     {
       "Route": "icon/3.eptcdhb0ry.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/3.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1012,7 +1012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1036,7 +1036,7 @@
     },
     {
       "Route": "icon/3.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/3.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1057,7 +1057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1073,7 +1073,7 @@
     },
     {
       "Route": "icon/4.nxxfmosirv.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/4.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1094,7 +1094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1118,7 +1118,7 @@
     },
     {
       "Route": "icon/4.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/4.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1139,7 +1139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "icon/5.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/5.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1176,7 +1176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1192,7 +1192,7 @@
     },
     {
       "Route": "icon/5.s4xlucsy36.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/5.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1213,7 +1213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "icon/6.54y5cjhe77.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/6.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1258,7 +1258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1282,7 +1282,7 @@
     },
     {
       "Route": "icon/6.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/6.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1303,7 +1303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1319,7 +1319,7 @@
     },
     {
       "Route": "icon/8.hef37k32k6.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/8.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/8.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1340,7 +1340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1364,7 +1364,7 @@
     },
     {
       "Route": "icon/8.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/8.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/8.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1385,7 +1385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1401,7 +1401,7 @@
     },
     {
       "Route": "icon/9.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/9.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/9.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1438,7 +1438,7 @@
     },
     {
       "Route": "icon/9.qzp7lstsdm.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/9.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/icon/9.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1459,7 +1459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1483,7 +1483,7 @@
     },
     {
       "Route": "logo.jvora63qjh.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/logo.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1504,7 +1504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1528,7 +1528,7 @@
     },
     {
       "Route": "logo.png",
-      "AssetFile": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/logo.png",
+      "AssetFile": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Web/wwwroot/logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 02:30:50 GMT"
+          "Value": "Sat, 23 Nov 2024 06:00:22 GMT"
         },
         {
           "Name": "Cache-Control",

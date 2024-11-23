@@ -8487,11 +8487,11 @@
   "project": {
     "version": "2.0.4",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool/Yi.Abp.Tool.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool/Yi.Abp.Tool.csproj",
       "projectName": "Yi.Abp.Tool",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool/Yi.Abp.Tool.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool/Yi.Abp.Tool.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -8507,8 +8507,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool.HttpApi.Client/Yi.Abp.Tool.HttpApi.Client.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool.HttpApi.Client/Yi.Abp.Tool.HttpApi.Client.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool.HttpApi.Client/Yi.Abp.Tool.HttpApi.Client.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool.HttpApi.Client/Yi.Abp.Tool.HttpApi.Client.csproj"
             }
           }
         }

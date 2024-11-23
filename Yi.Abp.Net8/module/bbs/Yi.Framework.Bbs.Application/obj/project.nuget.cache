@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+xkE6gSdf6o=",
+  "dgSpecHash": "afemLCU2CLc=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application/Yi.Framework.Bbs.Application.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application/Yi.Framework.Bbs.Application.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/alibabacloud.endpointutil/0.1.1/alibabacloud.endpointutil.0.1.1.nupkg.sha512",
     "/Users/mark/.nuget/packages/alibabacloud.gatewayspi/0.0.2/alibabacloud.gatewayspi.0.0.2.nupkg.sha512",
