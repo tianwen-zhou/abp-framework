@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etjWEJtPxOw=",
+  "dgSpecHash": "8hSddir5byU=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/jetbrains.annotations/2023.3.0/jetbrains.annotations.2023.3.0.nupkg.sha512",
     "/Users/mark/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",

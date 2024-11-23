@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj": {}
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj": {}
   },
   "projects": {
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
         "projectName": "Yi.Framework.Core",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj",
         "projectName": "Yi.Framework.Ddd.Application.Contracts",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
         "projectName": "Yi.Framework.Mapster",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -173,8 +173,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
         "projectName": "Yi.Framework.SqlSugarCore.Abstractions",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -250,8 +250,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Core/Yi.Framework.Core.csproj"
               }
             }
           }
@@ -304,14 +304,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj",
         "projectName": "Yi.Framework.AuditLogging.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -373,14 +373,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj",
         "projectName": "Yi.Framework.Bbs.Application.Contracts",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -396,11 +396,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj"
               }
             }
           }
@@ -443,14 +443,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
         "projectName": "Yi.Framework.Bbs.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -466,8 +466,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
               }
             }
           }
@@ -510,14 +510,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj",
         "projectName": "Yi.Framework.ChatHub.Application.Contracts",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -533,11 +533,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj"
               }
             }
           }
@@ -580,14 +580,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj",
         "projectName": "Yi.Framework.ChatHub.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -603,11 +603,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
               }
             }
           }
@@ -656,14 +656,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj",
         "projectName": "Yi.Framework.Rbac.Application.Contracts",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -679,14 +679,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
               }
             }
           }
@@ -729,14 +729,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
         "projectName": "Yi.Framework.Rbac.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -752,11 +752,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
               }
             }
           }
@@ -805,14 +805,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj",
         "projectName": "Yi.Framework.TenantManagement.Application.Contracts",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -828,11 +828,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
               }
             }
           }
@@ -881,14 +881,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj",
         "projectName": "Yi.Abp.Application.Contracts",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/Yi.Abp.Application.Contracts.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Application.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -904,23 +904,23 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Application.Contracts/Yi.Framework.Bbs.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Application.Contracts/Yi.Framework.ChatHub.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Application.Contracts/Yi.Framework.Rbac.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Application.Contracts/Yi.Framework.TenantManagement.Application.Contracts.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj"
               }
             }
           }
@@ -969,14 +969,14 @@
         }
       }
     },
-    "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj": {
+    "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj",
+        "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj",
         "projectName": "Yi.Abp.Domain.Shared",
-        "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj",
+        "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/Yi.Abp.Domain.Shared.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/obj/",
+        "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/src/Yi.Abp.Domain.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -992,17 +992,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain.Shared/Yi.Framework.AuditLogging.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/bbs/Yi.Framework.Bbs.Domain.Shared/Yi.Framework.Bbs.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/chat-hub/Yi.Framework.ChatHub.Domain.Shared/Yi.Framework.ChatHub.Domain.Shared.csproj"
               },
-              "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
-                "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
+              "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj": {
+                "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj"
               }
             }
           }

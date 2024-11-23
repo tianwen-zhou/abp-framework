@@ -6498,11 +6498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj",
       "projectName": "Yi.Framework.TenantManagement.Domain",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -6518,8 +6518,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
             }
           }
         }
@@ -6574,10 +6574,44 @@
   },
   "logs": [
     {
-      "code": "NU1900",
+      "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/mark/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
     }
   ]
 }

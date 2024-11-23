@@ -6489,11 +6489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
       "projectName": "Yi.Framework.Rbac.Domain.Shared",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/Yi.Framework.Rbac.Domain.Shared.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/rbac/Yi.Framework.Rbac.Domain.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -6509,11 +6509,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore.Abstractions/Yi.Framework.SqlSugarCore.Abstractions.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lFrAMG0iL4=",
+  "dgSpecHash": "TEPgDFrXEcc=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/setting-management/Yi.Framework.SettingManagement.SqlSugarCore/Yi.Framework.SettingManagement.SqlSugarCore.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/setting-management/Yi.Framework.SettingManagement.SqlSugarCore/Yi.Framework.SettingManagement.SqlSugarCore.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/asynckeyedlock/6.3.4/asynckeyedlock.6.3.4.nupkg.sha512",
     "/Users/mark/.nuget/packages/jetbrains.annotations/2023.3.0/jetbrains.annotations.2023.3.0.nupkg.sha512",

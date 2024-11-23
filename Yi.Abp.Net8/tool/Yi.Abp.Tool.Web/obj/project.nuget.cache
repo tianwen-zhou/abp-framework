@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4LeG7nDSFc=",
+  "dgSpecHash": "yW+GCrKrzEc=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool.Web/Yi.Abp.Tool.Web.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool.Web/Yi.Abp.Tool.Web.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/asp.versioning.abstractions/8.1.0/asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "/Users/mark/.nuget/packages/asp.versioning.http/8.1.0/asp.versioning.http.8.1.0.nupkg.sha512",

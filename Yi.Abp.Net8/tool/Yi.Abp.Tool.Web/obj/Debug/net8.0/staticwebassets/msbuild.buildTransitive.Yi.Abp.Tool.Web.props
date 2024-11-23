@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Yi.Abp.Tool.Web.props" />
-</Project>

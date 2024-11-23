@@ -7300,11 +7300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.SqlSugarCore/Yi.Framework.TenantManagement.SqlSugarCore.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.SqlSugarCore/Yi.Framework.TenantManagement.SqlSugarCore.csproj",
       "projectName": "Yi.Framework.TenantManagement.SqlSugarCore",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.SqlSugarCore/Yi.Framework.TenantManagement.SqlSugarCore.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.SqlSugarCore/Yi.Framework.TenantManagement.SqlSugarCore.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.SqlSugarCore/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.SqlSugarCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -7320,11 +7320,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/tenant-management/Yi.Framework.TenantManagement.Domain/Yi.Framework.TenantManagement.Domain.csproj"
             }
           }
         }

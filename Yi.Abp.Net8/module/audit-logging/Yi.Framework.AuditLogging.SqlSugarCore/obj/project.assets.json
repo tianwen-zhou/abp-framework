@@ -7314,11 +7314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.SqlSugarCore/Yi.Framework.AuditLogging.SqlSugarCore.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.SqlSugarCore/Yi.Framework.AuditLogging.SqlSugarCore.csproj",
       "projectName": "Yi.Framework.AuditLogging.SqlSugarCore",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.SqlSugarCore/Yi.Framework.AuditLogging.SqlSugarCore.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.SqlSugarCore/Yi.Framework.AuditLogging.SqlSugarCore.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.SqlSugarCore/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.SqlSugarCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -7334,14 +7334,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Mapster/Yi.Framework.Mapster.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.SqlSugarCore/Yi.Framework.SqlSugarCore.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain/Yi.Framework.AuditLogging.Domain.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain/Yi.Framework.AuditLogging.Domain.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain/Yi.Framework.AuditLogging.Domain.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/audit-logging/Yi.Framework.AuditLogging.Domain/Yi.Framework.AuditLogging.Domain.csproj"
             }
           }
         }

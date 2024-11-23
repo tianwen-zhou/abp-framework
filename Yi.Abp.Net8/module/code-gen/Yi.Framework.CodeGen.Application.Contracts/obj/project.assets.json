@@ -4279,11 +4279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application.Contracts/Yi.Framework.CodeGen.Application.Contracts.csproj",
+      "projectUniqueName": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application.Contracts/Yi.Framework.CodeGen.Application.Contracts.csproj",
       "projectName": "Yi.Framework.CodeGen.Application.Contracts",
-      "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application.Contracts/Yi.Framework.CodeGen.Application.Contracts.csproj",
+      "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application.Contracts/Yi.Framework.CodeGen.Application.Contracts.csproj",
       "packagesPath": "/Users/mark/.nuget/packages/",
-      "outputPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application.Contracts/obj/",
+      "outputPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Application.Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mark/.nuget/NuGet/NuGet.Config"
@@ -4299,11 +4299,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/framework/Yi.Framework.Ddd.Application.Contracts/Yi.Framework.Ddd.Application.Contracts.csproj"
             },
-            "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj": {
-              "projectPath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj"
+            "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj": {
+              "projectPath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/module/code-gen/Yi.Framework.CodeGen.Domain.Shared/Yi.Framework.CodeGen.Domain.Shared.csproj"
             }
           }
         }

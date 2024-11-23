@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xs0ZEp5UD2Y=",
+  "dgSpecHash": "2LYrnJX7RKw=",
   "success": true,
-  "projectFilePath": "/Users/mark/dev/dotNet/Yi/Yi.Abp.Net8/tool/Yi.Abp.Tool/Yi.Abp.Tool.csproj",
+  "projectFilePath": "/Users/mark/dev/dotNet/abp-framework/Yi.Abp.Net8/tool/Yi.Abp.Tool/Yi.Abp.Tool.csproj",
   "expectedPackageFiles": [
     "/Users/mark/.nuget/packages/asynckeyedlock/6.3.4/asynckeyedlock.6.3.4.nupkg.sha512",
     "/Users/mark/.nuget/packages/autofac/8.0.0/autofac.8.0.0.nupkg.sha512",
